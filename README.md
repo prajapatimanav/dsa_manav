@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/prajapatimanav/dsa_manav/tree/master/0054-spiral-matrix) |
+| [0118-pascals-triangle](https://github.com/prajapatimanav/dsa_manav/tree/master/0118-pascals-triangle) |
 | [0169-majority-element](https://github.com/prajapatimanav/dsa_manav/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/prajapatimanav/dsa_manav/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/prajapatimanav/dsa_manav/tree/master/0268-missing-number) |
@@ -60,4 +61,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/prajapatimanav/dsa_manav/tree/master/0054-spiral-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/prajapatimanav/dsa_manav/tree/master/2149-rearrange-array-elements-by-sign) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0118-pascals-triangle](https://github.com/prajapatimanav/dsa_manav/tree/master/0118-pascals-triangle) |
 <!---LeetCode Topics End-->
