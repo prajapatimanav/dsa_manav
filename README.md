@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/prajapatimanav/dsa_manav/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/prajapatimanav/dsa_manav/tree/master/0011-container-with-most-water) |
+| [0027-remove-element](https://github.com/prajapatimanav/dsa_manav/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/prajapatimanav/dsa_manav/tree/master/0035-search-insert-position) |
 | [0054-spiral-matrix](https://github.com/prajapatimanav/dsa_manav/tree/master/0054-spiral-matrix) |
 | [0118-pascals-triangle](https://github.com/prajapatimanav/dsa_manav/tree/master/0118-pascals-triangle) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/prajapatimanav/dsa_manav/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/prajapatimanav/dsa_manav/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0027-remove-element](https://github.com/prajapatimanav/dsa_manav/tree/master/0027-remove-element) |
 | [0189-rotate-array](https://github.com/prajapatimanav/dsa_manav/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/prajapatimanav/dsa_manav/tree/master/0283-move-zeroes) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/prajapatimanav/dsa_manav/tree/master/2149-rearrange-array-elements-by-sign) |
