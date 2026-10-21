@@ -95,4 +95,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/prajapatimanav/dsa_manav/tree/master/0011-container-with-most-water) |
+## String
+|  |
+| ------- |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/prajapatimanav/dsa_manav/tree/master/3863-minimum-operations-to-sort-a-string) |
 <!---LeetCode Topics End-->
