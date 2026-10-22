@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/prajapatimanav/dsa_manav/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/prajapatimanav/dsa_manav/tree/master/0283-move-zeroes) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/prajapatimanav/dsa_manav/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3942-minimum-operations-to-sort-a-permutation](https://github.com/prajapatimanav/dsa_manav/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Two Pointers
 |  |
 | ------- |
