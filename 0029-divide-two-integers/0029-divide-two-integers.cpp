@@ -20,7 +20,7 @@ public:
 
             a -= temp;
             ans += multiple;
-        }
+        };
 
         if ((dividend < 0) ^ (divisor < 0))
             ans = -ans;
