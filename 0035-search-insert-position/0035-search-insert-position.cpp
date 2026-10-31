@@ -21,6 +21,6 @@ int high = nums.size() - 1;
 
     return low;
 }
-
+;
 
 };
