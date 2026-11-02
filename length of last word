@@ -1,4 +1,4 @@
-class Solution {
+class solution {
 public:
     int lengthOfLastWord(string s) {
         int i = s.length() - 1;
