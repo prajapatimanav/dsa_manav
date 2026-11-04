@@ -1,0 +1,44 @@
+
+class Solution {
+public:
+    vector<string> letterCombinations(string digits) {
+        if (digits.empty()) {
+            return {};
+        }
+
+        vector<string> phone = {
+            "",     "",     "abc",  "def",
+            "ghi",  "jkl",  "mno",  "pqrs",
+            "tuv",  "wxyz"
+        };
+
+        vector<string> ans;
+        string current = "";
+
+        backtrack(digits, 0, current, ans, phone);
+
+        return ans;
+    }
+
+    void backtrack(string& digits, int index,
+                   string& current, vector<string>& ans,
+                   vector<string>& phone) {
+
+        // Base case: one complete combination is formed
+        if (index == digits.size()) {
+            ans.push_back(current);
+            return;
+        }
+
+        // Get letters corresponding to the current digit
+        string letters = phone[digits[index] - '0'];
+
+        for (char ch : letters) {
+            current.push_back(ch);
+
+            backtrack(digits, index + 1, current, ans, phone);
+
+            current.pop_back();  // Backtrack
+        }
+    }
+};
