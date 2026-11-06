@@ -10,7 +10,7 @@ public:
                 sorted = false;
                 break;
             }
-        }
+        };
 
         if (sorted) return 0;
 
