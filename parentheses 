@@ -22,4 +22,4 @@ public:
             backtrack(ans, curr + ')', open, close + 1, n);
         }
     }
-};
+}
