@@ -27,4 +27,4 @@ public:
 
         return (int)ans;
     }
-};
+}
